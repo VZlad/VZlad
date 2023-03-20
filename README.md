@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VZlad
-- 👀 I’m interested in HR, philosophy, psychology, IT, AI
+- 👀 I’m interested in HR, philosophy, psychology, IT, Python
 - 🌱 I’m currently learning recruiting IT specialists
 - 📫 How to reach me https://www.linkedin.com/in/vladislav-zhigulin-641290153/, 1vladislavzhigulin@gmail.com
 
